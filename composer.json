@@ -1,13 +1,13 @@
 {
-    "name": "rascoop/laracreatecrud",
+    "name": "danielquirogadev/clementinecrud",
     "description": "CRUD generator for Laravel. Generates models, controller and views based on the database tables. This project is a fork of kEpEx/laravel-crud-generator from Alfredo Aguirre (alfrednx@gmail.com).",
     "keywords": ["laravel", "CRUD", "Generator"],
     "type": "library",
     "license": "MIT",
     "authors": [
         {
-            "name": "Richard Scoop",
-            "email": "richard.scoop@gmail.com"
+            "name": "Daniel Quiroga",
+            "email": "daniel.quiroga9004@gmail.com"
         }
     ],
     "minimum-stability": "dev",
